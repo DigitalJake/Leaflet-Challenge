@@ -3,7 +3,7 @@
 # Visualization of Earthquakes with Leaflet
 ![USGS](./Images/1-Logo.png)
 ## View Map
-http://127.0.0.1:5500/index.html
+![Alt text](<Images/Screenshot (723).png>)
 
 
 # Part 1: Create the Earthquake Visualization
@@ -18,4 +18,3 @@ http://127.0.0.1:5500/index.html
 
 ![Alt text](Images/5-Advanced.png)
 
-# Part 2: Gather and Plot More Data
